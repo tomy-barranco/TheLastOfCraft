@@ -4,6 +4,8 @@
 
 Este es un servidor de Minecraft ambientado en el mundo postapocalíptico de *The Last of Us*. Explora ruinas, lucha contra infectados y sobrevive en un mundo desolado.
 
+![The Last Of Craft - Logo](https://th.bing.com/th/id/OIG2.C0ChuxJV8eWdsIJX3mUe?pid=ImgGn)
+
 ## Características
 
 - **Mapa personalizado:** Explora una versión detallada del mundo de *The Last of Us*.
@@ -15,7 +17,7 @@ Este es un servidor de Minecraft ambientado en el mundo postapocalíptico de *Th
 
 1. Descarga e instala Minecraft Java Edition.
 2. Abre el juego y selecciona "Multijugador".
-3. Agrega la dirección IP del servidor: `lastofcraft.server.com`
+3. Agrega la dirección IP del servidor: `virtual-pam.gl.joinmc.link`
 4. ¡Únete y comienza tu aventura!
 
 ## Contribuciones
